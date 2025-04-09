@@ -22,7 +22,7 @@ Este projeto é uma introdução prática ao microframework **Flask** com Python
 | `/show/<int:id>`  | Retorna uma mensagem com o número passado como parâmetro                 |
 | `/login` (GET)    | Exibe um formulário HTML                                                 |
 | `/login` (POST)   | Processa os dados enviados e exibe uma mensagem de confirmação           |
-| Página 404        | Exibe um HTML personalizado em caso de rota inexistente                 |
+|  `/qualquercoisa`        | Exibe um HTML personalizado em caso de rota inexistente                 |
 
 ---
 ## 🧠 Aprendizados
