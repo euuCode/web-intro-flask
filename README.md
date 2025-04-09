@@ -8,7 +8,7 @@ Este projeto é uma introdução prática ao microframework **Flask** com Python
 
 - Python 3.x
 - Flask
-- Jinja2 (engine de template do Flask)
+- Jinja2 
 
 ---
 
