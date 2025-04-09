@@ -25,7 +25,7 @@ Este projeto é uma introdução prática ao microframework **Flask** com Python
 | Página 404        | Exibe um HTML personalizado em caso de rota inexistente                 |
 
 ---
-🧠 Aprendizados
+## 🧠 Aprendizados
 Como criar rotas com e sem parâmetros
 
 Como retornar JSON e HTML dinâmico
@@ -36,7 +36,7 @@ Como lidar com formulários usando métodos GET e POST
 
 Como personalizar páginas de erro (ex: 404)
 
-👨‍💻 Autor
-Feito com 💻 e curiosidade por [Seu Nome Aqui].
+## 👨‍💻 Autor
+Feito com 💻 e curiosidade por [Márcio Ferreira].
 Desenvolvido como parte da atividade “Primeiro Contato com o Flask”.
 
