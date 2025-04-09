@@ -36,7 +36,7 @@ Como lidar com formulários usando métodos GET e POST
 
 Como personalizar páginas de erro (ex: 404)
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Feito com curiosidade por ## Márcio Ferreira.
 Desenvolvido como parte da atividade “Primeiro Contato com o Flask”.
 
