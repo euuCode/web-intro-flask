@@ -16,7 +16,7 @@ Este projeto é uma introdução prática ao microframework **Flask** com Python
 
 | Rota              | Descrição                                                                 |
 |-------------------|--------------------------------------------------------------------------|
-| `/`               | Retorna uma mensagem em formato JSON                                     |
+| `/api`               | Retorna uma mensagem em formato JSON                                     |
 | `/hello/`         | Retorna um HTML padrão com saudação genérica                             |
 | `/hello/<nome>`   | Retorna um HTML personalizado com o nome passado pela URL                |
 | `/show/<int:id>`  | Retorna uma mensagem com o número passado como parâmetro                 |
